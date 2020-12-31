@@ -1,2 +1,2 @@
 # Data-Structures-with-Cpp
-Thsi repository contains Data Structures in C++
+This repository contains Data Structures in C++
